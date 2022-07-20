@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "day": "07/02/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Shefford Park",
+        "court": "Court 1",
+        "price": "$24"
+        
+    },
+    {
+        "id": "2",
+        "day": "06/29/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Kanata Courts",
+        "court": "Court 2",
+        "price": "$23"
+
+    },
+    {
+        "id": "3",
+        "day": "07/14/2022",
+        "league" : "Co-Ed fours",
+        "location": "Rideau Sport Center",
+        "court": "Court 3",
+        "price": "$53"
+        
+    },
+    {
+        "id": "4",
+        "day": "07/11/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Carlingwood YMCA",
+        "court": "Court 4",
+        "price": "$16"
+        
+    },
+    {
+        "id": "5",
+        "day": "07/22/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Taggart YMCA",
+        "court": "Court 5",
+        "price": "$10"
+        
+    },
+    {
+        "id": "6",
+        "day": "07/19/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Shefford Park",
+        "court": "Court 6",
+        "price": "$12"
+        
+    },
+    {
+        "id": "7",
+        "day": "08/02/2022",
+        "league" : "Co-Ed fours",
+        "location": "Shefford Park",
+        "court": "Court 7",
+        "price": "$10"
+        
+    },
+    {
+        "id": "8",
+        "day": "08/03/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Shefford Park",
+        "court": "Court 8",
+        "price": "$10"
+        
+    },
+    {
+        "id": "9",
+        "day": "07/05/2022",
+        "league" : "Co-Ed doubles",
+        "location": "Shefford Park",
+        "court": "Court 9",
+        "price": "$15"
+        
+    }
+    
+    
+
+]
